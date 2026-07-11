@@ -15,8 +15,7 @@
 
 > Always watching. Always ready.
 
-![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/VIGIL/main/preview.png.png)
-
+![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/preview.png)
 ---
 
 ## What is Vigil?

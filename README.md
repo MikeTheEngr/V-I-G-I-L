@@ -14,7 +14,7 @@
 ### Predictive Intelligence for Industrial Infrastructure
 
 
-![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/preview.png)
+![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/vigil.gif)
 
 > Always watching. Always ready.
 ---

@@ -1,4 +1,6 @@
-# VIGIL
+<div align="center">
+  <img src="assets/banner.png" alt="Vigil Banner" width="100%"/>
+</div>
 ### Predictive Intelligence for Industrial Infrastructure
 
 > Always watching. Always ready.
@@ -36,7 +38,7 @@ Monitors pipeline sensor streams (pressure differential, flow rate, acoustic emi
 
 ## Live Demo
 
-🔗 **[vigil-dashboard.vercel.app](https://vigil-dashboard.vercel.app)**
+🔗 **[vigil-dashboard.vercel.app]((https://vigil-alpha-lovat.vercel.app/))**
 
 ---
 

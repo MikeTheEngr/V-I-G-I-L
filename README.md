@@ -13,9 +13,9 @@
 
 ### Predictive Intelligence for Industrial Infrastructure
 
-> Always watching. Always ready.
 
 ![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/preview.png)
+> Always watching. Always ready.
 ---
 
 ## What is Vigil?

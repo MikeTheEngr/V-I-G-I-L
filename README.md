@@ -14,7 +14,7 @@
 ### Predictive Intelligence for Industrial Infrastructure
 
 
-![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/preview.png)
+![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/V-I-G-I-L/main/preview.gif)
 > Always watching. Always ready.
 ---
 
@@ -108,14 +108,6 @@ Monitors pipeline sensor streams (pressure differential, flow rate, acoustic emi
 The predictive maintenance model was trained on the **NASA CMAPSS (Commercial Modular Aero-Propulsion System Simulation)** dataset — a widely used benchmark for remaining useful life prediction in turbofan engines.
 
 The leak detection model uses physics-informed synthetic data encoding the real signatures of pipeline leaks: downstream pressure drop, flow loss, and acoustic emission spike.
-
----
-
-## Screenshots
-
-| Dashboard | Equipment Detail | Alerts |
-|---|---|---|
-| ![Dashboard](assets/dashboard.png) | ![Equipment](assets/equipment.png) | ![Alerts](assets/alerts.png) |
 
 ---
 

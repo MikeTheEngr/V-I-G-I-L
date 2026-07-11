@@ -15,7 +15,7 @@
 
 > Always watching. Always ready.
 
-![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/VIGIL/main/preview.png)
+![Vigil Dashboard](https://raw.githubusercontent.com/MikeTheEngr/VIGIL/main/preview.png.png)
 
 ---
 
@@ -48,7 +48,7 @@ Monitors pipeline sensor streams (pressure differential, flow rate, acoustic emi
 
 ## Live Demo
 
-🔗 **[vigil-dashboard.vercel.app]([(https://vigil-alpha-lovat.vercel.app/)])**
+🔗 **[vigil-dashboard](https://vigil-alpha-lovat.vercel.app/)**
 
 ---
 

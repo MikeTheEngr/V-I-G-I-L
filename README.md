@@ -48,7 +48,7 @@ Monitors pipeline sensor streams (pressure differential, flow rate, acoustic emi
 
 ## Live Demo
 
-🔗 **[vigil-dashboard.vercel.app]((https://vigil-alpha-lovat.vercel.app/))**
+🔗 **[vigil-dashboard.vercel.app]([(https://vigil-alpha-lovat.vercel.app/)])**
 
 ---
 

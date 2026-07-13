@@ -24,7 +24,7 @@
 
 ## What is Vigil?
 
-Vigil - Virtual Infra Growth Intelligence Layer.
+Vigil - Virtual Infra Growth Intelligence Layer. <br>
 Vigil is an AI-powered industrial monitoring platform that continuously watches over critical equipment and pipeline infrastructure, detecting anomalies, predicting failures before they happen, and alerting operators in real time.
 
 Built to demonstrate production-grade ML engineering, full-stack development, and industrial AI system design.
